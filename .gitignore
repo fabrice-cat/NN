@@ -1,0 +1,14 @@
+.DS_Store
+tmp/
+*.dat
+*.o
+*.h.gch
+.vscode/
+TDSE.out
+__pycache__/
+tests.ipynb
+*.h5
+Susceptibility.ipynb
+#NeuralNetwork.ipynb
+Maxwell.out
+Results.ipynb

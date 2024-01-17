@@ -1,0 +1,8 @@
+GCC=/usr/bin/gcc 
+
+$GCC -O2 -c TDSE/*.c
+$GCC -o TDSE.out *.o 
+#rm *.o
+#./TDSE.out
+#rm TDSE.out
+
